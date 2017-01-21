@@ -4,7 +4,8 @@ Qoptercoin integration/staging tree
 http://www.qoptercoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Qoptercoin Developers
+Copyright (c) 2011-2014 Litecoin Developers
+Copyright (c) 2017- Qoptercoin Developers
 
 What is Qoptercoin?
 ----------------
